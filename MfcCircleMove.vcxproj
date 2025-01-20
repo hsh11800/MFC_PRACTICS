@@ -207,6 +207,7 @@
     <ResourceCompile Include="MfcCircleMove.rc" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="README.md" />
     <None Include="res\MfcCircleMove.rc2" />
   </ItemGroup>
   <ItemGroup>
